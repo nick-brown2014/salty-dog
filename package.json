@@ -35,5 +35,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage" : "https://nick-brown2014.github.io/salty-dog"
+  "homepage": "https://nick-brown2014.github.io/salty-dog",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
